@@ -19,6 +19,6 @@ Files included:
  
  ### Extra info
  
- < `space key`>: shoot
+ - < `space key`>: shoot
  <br\>
- < `Python bonus `>: extra power shoot
+ - < `Python bonus `>: extra power shoot
