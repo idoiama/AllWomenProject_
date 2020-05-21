@@ -14,7 +14,8 @@ Files included:
  3. Activate the environment
  4. In the terminal type: `conda install pip`
  5. Change the working directory to the directory in which you have the project itself: `cd path_file`
- 6.  Execute the code: `python source.py`
+ 6. Install the `requirementsAW.txt` --> pip install -r requirementsAW.txt
+ 7. Execute the code: `python source.py`
  
  
  ### Extra info
