@@ -9,12 +9,13 @@ Files included:
 
  # Steps required
  
+ 0. If you're using OSX, install XCode first. You can find it in the [AppStore (develop apps).](https://apps.apple.com/es/app/xcode/id497799835?mt=12) 
  1. Download all the files and save them in one folder (including the extraction of assets.rar)
- 2. Open the terminal and create a new enviroment
- 3. Activate the environment
+ 2. Open the terminal and create a new enviroment: `conda create -n CoolNewEnvironment`
+ 3. Activate the environment `conda activate CoolNewEnvironment`
  4. In the terminal type: `conda install pip`
  5. Change the working directory to the directory in which you have the project itself: `cd path_file`
- 6. Install the `requirementsAW.txt` --> pip install -r requirementsAW.txt
+ 6. Install the requirementsAW.txt --> `pip install -r requirementsAW.txt`
  7. Execute the code: `python source.py`
  
  
