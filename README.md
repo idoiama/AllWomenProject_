@@ -14,7 +14,7 @@ Files included:
  2. Open the terminal and create a new enviroment: `conda create -n CoolNewEnvironment`
  3. Activate the environment `conda activate CoolNewEnvironment`
  4. In the terminal type: `conda install pip`
- 5. Change the working directory to the directory in which you have the project itself: `cd path_file`
+ 5. Change the working directory to the directory in which you have the project itself: `cd YOUR_PATH_IN_YOUR_LAPTOP`
  6. Install the requirements
          - Windows users: `pip install -r requirementsAW_Win.txt`
          - Mac users: `pip install -r requirementsAW_iOS.txt`
