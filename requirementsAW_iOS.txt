@@ -1,4 +1,4 @@
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.3
 pygame==2.0.0.dev8
 python-dateutil==2.8.1
